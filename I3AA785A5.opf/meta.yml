@@ -1,59 +1,69 @@
-id: P007927
+id: I3AA785A5
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
-created_at: 22/03/2020
-last_modified_at: 2021-12-17 12:49:42.992546
+imported: '2020-03-22T18:59:05+00:00'
+last_modified: '2022-06-09T07:36:18.589504+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
 source_metadata:
   id: bdr:W3CN3333
   title: སེ་ར་ཡང་སྤྲུལ་གྱི་གསུང་འབུམ།
   author: ''
-  volumes:
-    358437c4720a4c768a8ed2d1ae7bd1fd:
-      image_group_id: I3CN3570
-      title: Volume 1 of se ra yang sprul gyi gsung 'bum/
-      volume_number: 1
-      total_pages: 254
-      base_file: v001.txt
-    622ff80cf3b84351b44b074c27b6c726:
-      image_group_id: I3CN3571
-      title: Volume 2 of se ra yang sprul gyi gsung 'bum/
-      volume_number: 2
-      total_pages: 544
-      base_file: v002.txt
-    10d8cd40903a4380a9e12161d9b7f3db:
-      image_group_id: I3CN3572
-      title: Volume 3 of se ra yang sprul gyi gsung 'bum/
-      volume_number: 3
-      total_pages: 454
-      base_file: v003.txt
-    e4a9fa7f745e44da8d0c54a8df073e43:
-      image_group_id: I3CN3573
-      title: Volume 4 of se ra yang sprul gyi gsung 'bum/
-      volume_number: 4
-      total_pages: 282
-      base_file: v004.txt
-    d7479910b454461d9abab1c7d2218524:
-      image_group_id: I3CN3574
-      title: Volume 5 of se ra yang sprul gyi gsung 'bum/
-      volume_number: 5
-      total_pages: 478
-      base_file: v005.txt
-    798ed5811997474dbeace38acf805f42:
-      image_group_id: I3CN3575
-      title: Volume 6 of se ra yang sprul gyi gsung 'bum/
-      volume_number: 6
-      total_pages: 506
-      base_file: v006.txt
-    c7b466ccc61e47b6990c9dd75bc975a1:
-      image_group_id: I3CN3576
-      title: Volume 7 of se ra yang sprul gyi gsung 'bum/
-      volume_number: 7
-      total_pages: 374
-      base_file: v007.txt
-    56ccf84302f84e3a8c4788a8328a710f:
-      image_group_id: I3CN3577
-      title: Volume 8 of se ra yang sprul gyi gsung 'bum/
-      volume_number: 8
-      total_pages: 150
-      base_file: v008.txt
   access: http://purl.bdrc.io/admindata/AccessOpen
   restrictedInChina: true
+  base:
+    '6028':
+      image_group_id: I3CN3570
+      title: Volume 1 of se ra yang sprul gyi gsung 'bum/
+      total_pages: 254
+      order: 1
+      base_file: 6028.txt
+    48FD:
+      image_group_id: I3CN3571
+      title: Volume 2 of se ra yang sprul gyi gsung 'bum/
+      total_pages: 544
+      order: 2
+      base_file: 48FD.txt
+    9C77:
+      image_group_id: I3CN3572
+      title: Volume 3 of se ra yang sprul gyi gsung 'bum/
+      total_pages: 454
+      order: 3
+      base_file: 9C77.txt
+    6A67:
+      image_group_id: I3CN3573
+      title: Volume 4 of se ra yang sprul gyi gsung 'bum/
+      total_pages: 282
+      order: 4
+      base_file: 6A67.txt
+    85B4:
+      image_group_id: I3CN3574
+      title: Volume 5 of se ra yang sprul gyi gsung 'bum/
+      total_pages: 478
+      order: 5
+      base_file: 85B4.txt
+    3DA0:
+      image_group_id: I3CN3575
+      title: Volume 6 of se ra yang sprul gyi gsung 'bum/
+      total_pages: 506
+      order: 6
+      base_file: 3DA0.txt
+    F14D:
+      image_group_id: I3CN3576
+      title: Volume 7 of se ra yang sprul gyi gsung 'bum/
+      total_pages: 374
+      order: 7
+      base_file: F14D.txt
+    01DF:
+      image_group_id: I3CN3577
+      title: Volume 8 of se ra yang sprul gyi gsung 'bum/
+      total_pages: 150
+      order: 8
+      base_file: 01DF.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
